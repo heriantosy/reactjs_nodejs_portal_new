@@ -10,6 +10,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+       {/* <h1>Hello, ini halaman awal yang baru!</h1> */}
   </React.StrictMode>
 );
 
